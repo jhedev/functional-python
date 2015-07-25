@@ -12,6 +12,7 @@ This is (personal) collection of interesting things (in my opinion) about functi
 * [Functional Programming chapter](http://anandology.com/python-practice-book/functional-programming.html)  in the Python [Practice Book](http://anandology.com/python-practice-book/)
 * [A look at some of Python's useful itertools](http://naiquevin.github.io/a-look-at-some-of-pythons-useful-itertools.html)
 * [Python generators and being lazy](http://naiquevin.github.io/python-generators-and-being-lazy.html)
+* Free O'Reilly Book: [Functional Programming in Python](http://www.oreilly.com/programming/free/files/functional-programming-python.pdf)
 
 # Talks
 * [Functional Programming with Python](http://ua.pycon.org/static/talks/kachayev/#/) by Alexey Kachayev (2012)
